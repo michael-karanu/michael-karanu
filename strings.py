@@ -25,5 +25,3 @@ first_name = "michael"
 second_name = "karanu"
 full_name = first_name + second_name
 print(full_name)
-day = WEDNESDAY
-print(day.length())
