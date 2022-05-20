@@ -6,5 +6,5 @@ mult = f_num * s_num
 print("multiplication is",mult)
 division = f_num/s_num
 print("division is",division)
-sub = f_name - s_name
+sub = f_num - s_num
 print("subtraction is",sub)
